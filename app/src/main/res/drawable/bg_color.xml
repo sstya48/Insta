@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    android:shape = "rectangle"
+    xmlns:android = "http://schemas.android.com/apk/res/android" >
+
+    <gradient
+
+        android:startColor = "#4386CE"
+        android:centerColor = "#e95950"
+        android:endColor = "#fbad50"
+        android:angle = "135"
+        android:type = "linear" />
+</shape>
+
+
+    <!--        android:startColor = "#bc2a8d"-->
+<!--    https://www.designpieces.com/palette/instagram-new-logo-2016-color-palette/-->
+
+<!--    https://www.designpieces.com/palette/instagram-new-logo-2016-color-palette/-->
